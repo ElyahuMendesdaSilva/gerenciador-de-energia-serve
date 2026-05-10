@@ -1,0 +1,21 @@
+{
+    "version" : "0.1beta",
+    "user-login" : {
+        "username": "",
+        "password": ""
+    },
+    "mobile-api-server": {
+        "host": "",
+        "port": null
+    },
+    "communication-manager": {
+        "mqtt_broker": "",
+        "mqtt_port": null,
+        "mqtt_topic": ""
+    },
+    "internet_tester":{
+        "host": "8.8.8.8",
+        "port": 53,
+        "timeout": 3
+    }
+}
