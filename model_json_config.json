@@ -4,9 +4,9 @@
         "username": "",
         "password": ""
     },
-    "mobile-api-server": {
-        "host": "",
-        "port": null
+    "api-server": {
+        "host": "localhost",
+        "port": 8000
     },
     "communication-manager": {
         "mqtt_broker": "",
