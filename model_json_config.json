@@ -1,6 +1,6 @@
 {
-    "version" : "0.1beta",
-    "user-login" : {
+    "version": "0.1beta",
+    "user-login": {
         "username": "",
         "password": ""
     },
@@ -13,9 +13,12 @@
         "mqtt_port": null,
         "mqtt_topic": ""
     },
-    "internet_tester":{
-        "host": "8.8.8.8",
-        "port": 53,
-        "timeout": 3
+    "monitor_settings_use": {
+        "cpu_usage_interval": 1,
+        "network_tester": {
+            "host": "8.8.8.8",
+            "port": 53,
+            "timeout": 3
+        }
     }
 }
