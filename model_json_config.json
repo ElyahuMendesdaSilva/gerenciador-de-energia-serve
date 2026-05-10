@@ -8,6 +8,10 @@
         "host": "localhost",
         "port": 8000
     },
+    "database":{
+        "path_db" : "./src/database/db",
+        "file_db_name" : "server.db"
+    },
     "communication-manager": {
         "mqtt_broker": "",
         "mqtt_port": null,
