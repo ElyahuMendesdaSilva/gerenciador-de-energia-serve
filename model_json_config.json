@@ -1,9 +1,5 @@
 {
     "version": "0.1beta",
-    "user-login": {
-        "username": "",
-        "password": ""
-    },
     "api-server": {
         "host": "localhost",
         "port": 8000
